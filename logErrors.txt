@@ -1,0 +1,2 @@
+Note: D:\CodeEpisodes\SearchBarRecyclerView\app\src\main\java\com\tutorials\hp\searchbarrecyclerview\FilterHelper.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
